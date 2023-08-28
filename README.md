@@ -49,3 +49,7 @@ Follow these steps to set up and run the project locally:
   - `templates`: HTML templates for rendering the front end.
   - `manage.py`: Django management script.
   - `requirements.txt`: List of Python dependencies.
+
+# Output
+
+   ![output](https://github.com/aliarmaghan/Reddit_Wrapper/blob/main/Output/RedditWrapper_Output.jpeg)
