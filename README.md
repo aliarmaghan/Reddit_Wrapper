@@ -16,7 +16,6 @@ Follow these steps to set up and run the project locally:
 
    ```bash
    git clone https://github.com/aliarmaghan/Reddit_Wrapper.git
-   
 
 2. Install dependencies:
 
@@ -25,7 +24,7 @@ Follow these steps to set up and run the project locally:
 
 3. Configure Reddit API Access:
    
-   - Sign up for Reddit API access and obtain the client ID and client secret.
+   - Sign up for Reddit API access and obtain the client ID and client secret using this link https://www.reddit.com/prefs/apps.
    - Update the RedditWrapper_App/reddit_client.py file with your credentials.
 
 4. Configure Reddit API Access:
