@@ -15,7 +15,7 @@ Follow these steps to set up and run the project locally:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/reddit-wrapper-webapp.git
+   git clone https://github.com/aliarmaghan/Reddit_Wrapper.git
    cd reddit-wrapper-webapp
 
 2. Install dependencies:
