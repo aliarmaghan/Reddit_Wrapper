@@ -2,8 +2,8 @@ import praw
 
 def get_reddit_data(subreddit_name):
     reddit = praw.Reddit(
-        client_id='wPkY7dggIHCHp9rcINdTCA',
-        client_secret='LlzCdZPh2hO_J2A57Sg_pfHv4evP7w',
+        client_id='your_client_id',
+        client_secret='your_client_secret',
         user_agent='your_user_agent',
     )
 
